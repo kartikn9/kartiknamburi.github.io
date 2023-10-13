@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Website Title</title>
+    <title>ABOUT ME</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
