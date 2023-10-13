@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ABOUT ME</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -20,7 +19,7 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Write a brief introduction about yourself here.</p>
+            <p>I am Kartik Namburi.</p>
         </section>
         <section>
             <h2>Portfolio</h2>
@@ -38,11 +37,11 @@
         </section>
         <section>
             <h2>Contact Me</h2>
-            <p>You can reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+            <p>You can reach me at: <a href="mailto:kartik.namburi@gmail.com">youremail@example.com</a></p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Your Name</p>
+        <p>&copy; 2023 Kartik Namburi</p>
     </footer>
 </body>
 </html>
