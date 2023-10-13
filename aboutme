@@ -1,6 +1,0 @@
-git clone https://github.com/kartikn9/kartiknamburi.github.io.git
-cd username.github.io
-# Add your website files to this directory
-git add .
-git commit -m "Initial commit"
-git push -u origin main
