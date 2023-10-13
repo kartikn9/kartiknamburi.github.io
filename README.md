@@ -17,13 +17,13 @@
         </nav> <!-- end #nav-wrap -->
         <div class="row banner">
             <div class="banner-text">
-                <h1 class="responsive-headline" style="font-size: 90px;">I'm Prudhvi Raj.</h1>
+                <h1 class="responsive-headline" style="font-size: 90px;">I'm Kartik Namburi.</h1>
                 <h3>
                     Product Manager by Profession and an avid explorer personally. Pursued <span>MBA from ISB</span> in 2023. An Ardent puzzles solver with great love for numbers.
                 </h3>
                 <hr>
                 <ul class="social">
-					<li><a href="https://www.linkedin.com/in/prudhvi-raj-bikumalla-0068a0117/"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/kartiknamburi/"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://www.facebook.com/prudhvi.bikumalla/"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="https://twitter.com/e95bc2817eb448f"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.instagram.com/bikumallaprudhviraj/"><i class="fa fa-instagram"></i></a></li>
