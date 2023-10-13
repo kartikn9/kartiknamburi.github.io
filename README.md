@@ -44,9 +44,9 @@
             <div class="nine columns main-col">
                 <h2>About Me</h2>
                 <p>
-                  I am Bikumalla Prudhvi Raj born on 22nd December 1997 hailing from Guntur, Andhra Pradesh, India. Graduated from ISB with MBA in IT &amp; Strategy.
-		Finished my Undergrad from the National Institute of Technology Goa from the department of Computer Science and Engineering. 
-		I commenced working in Reliance Industries as Machine Learning Engineer right after my Undergrad. 
+                  I am Kartik Namburi born on 21st December 1991 hailing from Bhimavaram, Andhra Pradesh, India. Graduated from ISB with MBA in IT &amp; Strategy.
+		Finished my Undergrad from the National Institute of Technology Warangal from the department of Civil Engineering. 
+		I commenced working in Thermax Limited as Machine Learning Engineer right after my Undergrad. 
 		I moved to Oracle India for the role of IT Consultant and was awarded fast-track promotion to Senior Application Developer. 
 		I relish to travel and had visited 23 states in India. 
 		Goa and Andaman are my favorite spots. I profoundly relish to solve puzzles and solve maths puzzles during my leisure.
